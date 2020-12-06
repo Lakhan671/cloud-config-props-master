@@ -1,2 +1,2 @@
-# ecommerce-config-props
-e commerce services configurations
+# cloud-config-props
+cloud configurations
