@@ -4,7 +4,7 @@ redis:
     port: 6379
   cacheManager:
     expiration: 1800
-channe:
+channel:
   source: youtube-dev
   name: kk-dev
   url: www.youtube-dev
